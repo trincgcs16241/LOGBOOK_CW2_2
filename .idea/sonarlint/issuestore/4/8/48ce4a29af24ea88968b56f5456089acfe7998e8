@@ -1,0 +1,16 @@
+
+m	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ²ùÏ8†Àà–¼1
+u
+java:S1450"XRemove the "btnImport" field and declare it as a local variable in the relevant methods.(®ã¥ÿ8ë†Ö–¼1
+Z
+java:S18746">Remove this use of "startActivityForResult"; it is deprecated.(öøˆ8‡µØ–¼1
+l
+java:S1874M"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»×¶şÿÿÿÿ8ËÓÛ–¼1
+Z
+java:S1874Q">Remove this use of "startActivityForResult"; it is deprecated.(öøˆ8Ì©Ü–¼1
+g
+java:S1874V"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ŸŒ¹Ñ8ÍÓÛ–¼1
+j
+java:S3252["MUse static access with "android.provider.MediaStore$MediaColumns" for "DATA".(´Ë¡é8›Àà–¼1
+j
+java:S3252]"MUse static access with "android.provider.MediaStore$MediaColumns" for "DATA".(ñ²ùÏ8›Àà–¼1
